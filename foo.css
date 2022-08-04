@@ -1,0 +1,9 @@
+.heavy {
+    font: bold 200px sans-serif;
+    color: black;
+    overflow:visible;
+}
+
+svg{
+    overflow:visible;
+}
